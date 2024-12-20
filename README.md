@@ -12,6 +12,7 @@
 <br>
 <h3>🚀 Funcionalidades</h3>
 <div>
+  
 - <strong>Adicionar Número:</strong> Permite ao usuário inserir um número entre 1 e 100 na lista.
 - <strong>Validar Entradas:</strong> Garante que o número inserido seja único e dentro do intervalo permitido.
 - <strong>Análise Numérica:</strong> quantidade total de números, menor número, maior número, soma de todos os números e média dos números.
